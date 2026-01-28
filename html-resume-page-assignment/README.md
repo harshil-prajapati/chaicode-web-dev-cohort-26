@@ -15,5 +15,7 @@ and real project links.
 ## Demo
 - Screenshots are included in the repository
 
+![HTML Resume Page](./img/html-resume-page-assignment.png)
+
 ## Author
 Harshil Prajapati
