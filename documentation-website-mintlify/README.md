@@ -33,12 +33,12 @@ documentation-website-mintlify/
 
 # Mintlify Clone Website :
 
-![Mintlify Website](./assets/mintlify.png)
+![Mintlify Website](./assets/mintlify-clone.png)
 
 ---
 
 # Mintlify Website :
-![Mintlify Website](./assets/mintlify-clone.png)
+![Mintlify Website](./assets/mintlify.png)
 
 
 
