@@ -32,5 +32,16 @@ dev-tool-landing-page-cursor/
 2. Open `index.html` in any modern web browser
 3. No build process or dependencies required
 
+---
+
+# Cursor Clone Website :
+
+![Cursor Website](./assets/output/cursor-clone.png)
+
+---
+
+# Cursor Website :
+![Cursor Website](./assets/output/cursor.png)
+
 ## Author
 Harshil Prajapati
